@@ -51,6 +51,8 @@ skills/       skills compatíveis com Codex e fluxos semelhantes
 
 O exemplo completo em [`examples/complete-project`](examples/complete-project) demonstra o fluxo da ideia até o registro de evidências.
 
+O [mapa de portfólio](docs/portfolio-map.md) descreve competências e estudos de caso sem expor código proprietário.
+
 ## Uso responsável
 
 Os materiais são referências de trabalho. Revise as instruções antes de usá-las em um projeto real e nunca inclua credenciais, dados pessoais ou código proprietário.
