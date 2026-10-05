@@ -23,7 +23,9 @@ Leia [Os três pilares](docs/three-pillars.md), depois use o [Project Brief](exa
 - uma skill para orientar a evolução de projetos;
 - um agente coordenador de arquitetura e execução paralela;
 - um agente revisor de evidências e status;
+- o agente Martins, descrito como uma metodologia pública de aprendizado e coordenação;
 - uma skill para decompor e coordenar frentes paralelas;
+- uma skill pública para transformar experiência em práticas reutilizáveis;
 - um modelo de briefing de projeto;
 - princípios para registrar decisões e evidências.
 

@@ -12,6 +12,10 @@ Metodologia e componentes reutilizáveis para coordenar pessoas e agentes de IA 
 
 Ferramenta open source de auditoria de sites baseada em evidências nativas do navegador, perfis versionados, regras determinísticas e limites read-only.
 
+### Martins Agent
+
+Agente/metodologia de aprendizado e coordenação que transforma experiência de projeto em skills, decisões arquiteturais, handoffs e critérios de evidência. A publicação mostra o método; prompts pessoais e contexto proprietário permanecem privados.
+
 ## Estudos de caso sem código público
 
 ### InsightValues
