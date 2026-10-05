@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Agentic Evolution Toolkit"
+message: "If this toolkit helps your work, please cite or link to the repository."
+type: software
+authors:
+  - family-names: "Martins"
+    given-names: "Paulo"
+    affiliation: "Independent"
+version: 0.1.0
+date-released: 2026-10-05
+license: MIT
+abstract: "A practical methodology for coordinating people and AI agents through clear architecture, parallel development, and evidence-based validation."
